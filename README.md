@@ -1,0 +1,1 @@
+Code used to implement the simulations and carry out their analysis as described in the article "Generosity pays in the presence of direct reciprocity: A comprehensive study of 2 × 2 repeated games" (Martinez-Vaquero et al, PLoS ONE 7, e35135 (2012)).
